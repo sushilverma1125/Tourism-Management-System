@@ -46,6 +46,7 @@ $error="Something went wrong. Please try again";
 <link href="css/font-awesome.css" rel="stylesheet">
 <!-- Custom Theme files -->
  <!-- testing -->
+  <!-- testing successfull -->
 <script src="js/jquery-1.12.0.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <!--animate-->
